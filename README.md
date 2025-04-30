@@ -4,6 +4,13 @@ This is a **CRUD (Create, Read, Update, Delete)** web application developed usin
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies used](#tech-stack)
+- [Installation](#installation)
+
+
 ## 📌 Features
 
 - Add new employee
