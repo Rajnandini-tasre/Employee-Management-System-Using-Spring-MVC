@@ -3,11 +3,6 @@
 This is a **CRUD (Create, Read, Update, Delete)** web application developed using **Spring MVC**. It is designed to manage employee records through a simple user interface built with **HTML, CSS, and JSP**. The application runs on a ** Apache Tomcat server** and is developed using **Eclipse IDE** with Maven-based **Spring dependencies**.
 
 ---
-## Table of Contents
-
-- [Features](#features)
-- [Technologis used](#technologies-used)
-- [Installation](#installation)
 
 ## 📌 Features
 
