@@ -26,7 +26,8 @@ This is a **CRUD (Create, Read, Update, Delete)** web application developed usin
   - Spring Web MVC
   - Servlet API
   - JSP and JSTL
-  - MySQL connector 
+  - MySQL connector
+  - javax-servlet
 
 ---
 
